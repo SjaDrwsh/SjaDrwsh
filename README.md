@@ -6,27 +6,6 @@ I love in **bridging design and engineering**. I focus on converting design syst
 
 ---
 
-## 🛠️ Technologies & Tools
-- React
-- TypeScript
-- HTML5
-- CSS3
-- Angular
-- Material-UI
-- Styled-Components
-- MobX
-- NgRx
-- Webpack
-- Yarn
-- Git
-- Jest
-- Playwright
-- React Testing Library
-- Google Analytics
-- Mixpanel
-
----
-
 ## 🚀 What I Do
 - **Frontend Wizardry**: Crafting modern, scalable, and maintainable web applications that users love.
 - **Performance Boosting**: I’m all about speed! From **code splitting** to **lazy loading**, I ensure your app runs like a dream.
@@ -48,6 +27,27 @@ I love in **bridging design and engineering**. I focus on converting design syst
 
 ## 📢 Let’s Collaborate!
 I’m always open to **collaborations**! Whether you need a **frontend expert** to fix bugs, **optimize performance**, or elevate your **UI/UX**, I’m here to help. I love contributing to **open-source projects** and am always up for a new challenge.
+
+---
+
+## 🛠️ Technologies & Tools
+- React
+- TypeScript
+- HTML5
+- CSS3/LESS/SASS
+- Angular
+- Material-UI
+- Styled-Components
+- MobX
+- NgRx
+- Webpack
+- Yarn
+- Git
+- Jest
+- Playwright
+- React Testing Library
+- Google Analytics
+- Mixpanel
 
 ---
 
