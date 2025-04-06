@@ -7,11 +7,11 @@ I love in **bridging design and engineering**. I focus on converting design syst
 ---
 
 ## 🚀 What I Do
-- **Frontend Wizardry**: Crafting modern, scalable, and maintainable web applications that users love.
-- **Performance Boosting**: I’m all about speed! From **code splitting** to **lazy loading**, I ensure your app runs like a dream.
-- **Building Styleguides**: Creating reusable, scalable design systems and component libraries.
-- **Mentorship**: Guiding junior developers to grow their skills through thoughtful code reviews and pair programming.
-- **Open Source Love**: Actively contributing to open-source projects and squashing bugs wherever I find them.
+- **🎨 Frontend Wizardry**: Crafting modern, scalable, and maintainable web applications that users love.
+- **⚡ Performance Boosting**: I’m all about speed! From **code splitting** to **lazy loading**, I ensure your app runs like a dream.
+- **🧩 Design Systems & Styleguides**: Creating reusable, scalable design systems and component libraries.
+- **🌱 Mentorship & Growth**: Guiding junior developers to grow their skills through thoughtful code reviews and pair programming.
+- **💚 Open Source Love**: Actively contributing to open-source projects and squashing bugs wherever I find them.
 
 ---
 
