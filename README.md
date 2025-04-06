@@ -18,12 +18,13 @@ I love **bridging design and engineering**. I focus on converting design systems
 ---
 
 ## 🏗️ Architecture I Love
-- **Monorepo**: One repo to rule them all   
-- **TDD (Test-Driven Development)**: Test-first mindset = bug-free bliss 
-- **DDD (Domain-Driven Design)**: Building software that makes sense.  
-- **Microservices**: Scalable and modular by design.  
-- **CI/CD Pipelines**: Automating all the things!  
-- **Modular Architecture**: Clean, reusable, and maintainable codebases.
+- **🧩 Monorepo**: One repo to rule them all   
+- **🧪 TDD (Test-Driven Development)**: Test-first mindset = bug-free bliss 
+- **🧠 DDD (Domain-Driven Design)**: Building software that makes sense.  
+- **🧬 Microservices**: Scalable and modular by design.  
+- **⚙️ CI/CD Pipelines**: Automating all the things!  
+- **🧱 Modular Architecture**: Clean, reusable, and maintainable codebases.
+- **🚩 Feature Flags**: Gradual releases, A/B testing, and zero-downtime deploys
 
 
 ---
