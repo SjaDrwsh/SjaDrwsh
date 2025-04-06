@@ -25,10 +25,6 @@ I love **bridging design and engineering**. I focus on converting design systems
 - **CI/CD Pipelines**: Automating all the things!  
 - **Modular Architecture**: Clean, reusable, and maintainable codebases.
 
----
-
-## 📢 Let’s Collaborate!
-I’m always open to **collaborations**! Whether you need a **frontend expert** to fix bugs, **optimize performance**, or elevate your **UI/UX**, I’m here to help. I love contributing to **open-source projects** and am always up for a new challenge.
 
 ---
 
@@ -69,7 +65,12 @@ Here’s the stack I wield with intention and a little bit of frontend flair:
 
 ---
 
-## 📫 How to Reach Me
+## 📢 Let’s Collaborate!
+I’m always open to **collaborations**! Whether you need a **frontend expert** to fix bugs, **optimize performance**, or elevate your **UI/UX**, I’m here to help. I love contributing to **open-source projects** and am always up for a new challenge.
+
+
+
+### 📫 How to Reach Me
 
 - 📧 **Email**: [darwish.saja@gmail.com](mailto:darwish.saja@gmail.com)  
 - 💻 **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SjaDrwsh/SjaDrwsh)  
