@@ -11,6 +11,8 @@ I love **bridging design and engineering**. I focus on converting design systems
 - **⚡ Performance Boosting**: I’m all about speed! From **code splitting** to **lazy loading**, I ensure your app runs like a dream.
 - **🧩 Design Systems & Styleguides**: Creating reusable, scalable design systems and component libraries.
 - **🌱 Mentorship & Growth**: Guiding junior developers to grow their skills through thoughtful code reviews and pair programming.
+- **🧹 Clean Code & Maintenance Mastery**: I don’t just build apps, I keep them **healthy**, **clean**, and **future-proof**.
+
 - **💚 Open Source Love**: Actively contributing to open-source projects and squashing bugs wherever I find them.
 
 ---
@@ -31,24 +33,22 @@ I’m always open to **collaborations**! Whether you need a **frontend expert** 
 ---
 
 ## 🛠️ Technologies & Tools
+- TypeScript / JavaScript 
 - React
-- TypeScript
 - HTML5
 - CSS3/LESS/SASS
 - Angular
 - Material-UI
 - Styled-Components
 - Storybook
-- MobX
-- NgRx
-- Webpack
-- Yarn
+- MobX / NgRx
+- Webpack / Yarn 
 - Git
-- Jest
-- Playwright
-- React Testing Library
-- Google Analytics
-- Mixpanel
+- Playwright / Cypress
+- Jest / React Testing Library
+- Google Analytics / Mixpanel  
+- ESLint / Prettier / Stylelint  
+- Husky / Lint-Staged  
 
 ---
 
@@ -59,8 +59,7 @@ I’m always open to **collaborations**! Whether you need a **frontend expert** 
 - 🌐 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saja-darwish/)  
 
 ---
-
-Let’s create something amazing together! ✨
+🤝 Let’s Build Something Awesome together! ✨
 
 -the end-
 
