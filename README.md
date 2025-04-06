@@ -38,6 +38,7 @@ I’m always open to **collaborations**! Whether you need a **frontend expert** 
 - Angular
 - Material-UI
 - Styled-Components
+- Storybook
 - MobX
 - NgRx
 - Webpack
