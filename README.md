@@ -11,7 +11,11 @@ I love **bridging design and engineering**. I focus on converting design systems
 - **⚡ Performance Boosting**: I’m all about speed! From **code splitting** to **lazy loading**, I ensure your app runs like a dream.
 - **🧩 Design Systems & Styleguides**: Creating reusable, scalable design systems and component libraries.
 - **🌱 Mentorship & Growth**: Guiding junior developers to grow their skills through thoughtful code reviews and pair programming.
-- **🧹 Clean Code & Maintenance Mastery**: I don’t just build apps, I keep them **healthy**, **clean**, and **future-proof**.
+- **🧹 Clean Code,  Maintenance Mastery & Technical Debt**: I don’t just build apps, I keep them **healthy**, **clean**, and **future-proof**.
+- **🔁 Large-Scale Migrations**: I’ve lead/led, high-impact migrations, Framework & Dependency Upgrades
+- **🛡️ Security & Audit Culture**: I regularly run **npm audit**, **yarn audit**, and static analysis tools to catch vulnerabilities early. Familiar with OWASP best practices and tools like **Snyk**, **Dependabot**, and custom scripts to flag known issues.
+
+
 
 - **💚 Open Source Love**: Actively contributing to open-source projects and squashing bugs wherever I find them.
 
@@ -25,7 +29,6 @@ I love **bridging design and engineering**. I focus on converting design systems
 - **⚙️ CI/CD Pipelines**: Automating all the things!  
 - **🧱 Modular Architecture**: Clean, reusable, and maintainable codebases.
 - **🚩 Feature Flags**: Gradual releases, A/B testing, and zero-downtime deploys
-
 
 ---
 
