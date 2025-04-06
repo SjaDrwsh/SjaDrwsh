@@ -33,22 +33,39 @@ I’m always open to **collaborations**! Whether you need a **frontend expert** 
 ---
 
 ## 🛠️ Technologies & Tools
-- TypeScript / JavaScript 
-- React
-- HTML5
-- CSS3/LESS/SASS
-- Angular
-- Material-UI
-- Styled-Components
-- Storybook
-- MobX / NgRx
-- Webpack / Yarn 
-- Git
-- Playwright / Cypress
-- Jest / React Testing Library
-- Google Analytics / Mixpanel  
-- ESLint / Prettier / Stylelint  
-- Husky / Lint-Staged  
+Here’s the stack I wield with intention and a little bit of frontend flair:
+
+### 👩‍💻 Languages & Frameworks
+- 🧠 **JavaScript** / 💙 **TypeScript**  
+- ⚛️ **React** / 🅰️ **Angular**  
+- 🧩 **HTML5**, 🎨 **CSS3**, 💅 **SASS/LESS**
+
+### 🧱 UI Libraries & Styling
+- 💅 **Styled-Components**  
+- 📚 **Storybook** – for beautiful, isolated components  
+- 🎨 **MUI** – clean, accessible, and robust  
+- 🟣 **Semantic UI** – sleek and speedy setup    
+- 💅 **Styled-Components** – CSS-in-JS magic  
+- 🧵 **Emotion** – performant and expressive styling  
+- 📚 **Storybook** – for building and documenting UI in isolation  
+- 🎯 **Design Tokens** & **Responsive Systems**
+
+### 📦 State Management
+- 🧠 **MobX**, 🔥 **NgRx**  
+
+### 🧪 Testing & Quality
+- 🧪 **Jest** + 🧼 **React Testing Library**  
+- 🎭 **Playwright / Cypress** for robust E2E testing  
+
+### 🧹 Code Quality & Automation
+- 🔍 **ESLint**, 🎨 **Prettier**, 💄 **Stylelint**  
+- 🐶 **Husky**, ⚡ **Lint-Staged**  
+
+### 🧰 Build & Dev Tools
+- 🧵 **Yarn**, 📦 **Webpack**, 🛠️ **Vite** (if you’re into that speedy vibe)  
+- 🧙‍♂️ **Git**  
+- 📊 **Google Analytics**, 📈 **Mixpanel** – know your users
+
 
 ---
 
