@@ -2,7 +2,7 @@
 
 I'm a **Senior Design and Frontend Developer** with over **10 years of experience** crafting **scalable web applications** that not only work but shine! I specialize in **JavaScript**, **TypeScript**, **ReactJS**, and **Angular**, and I’m passionate about **UI/UX magic**, clean code, and driving projects to success through seamless collaboration.
 
-I love in **bridging design and engineering**. I focus on converting design systems into reusable, maintainable code and work closely with designers to ensure **pixel-perfect** UIs. I have a deep understanding of **UI/UX consistency**, **accessibility**, and **design tokens**, and I am experienced in building and maintaining **component libraries** that improve scalability and consistency across applications.
+I love **bridging design and engineering**. I focus on converting design systems into reusable, maintainable code and work closely with designers to ensure **pixel-perfect** UIs. I have a deep understanding of **UI/UX consistency**, **accessibility**, and **design tokens**, and I am experienced in building and maintaining **component libraries** that improve scalability and consistency across applications.
 
 ---
 
@@ -16,8 +16,8 @@ I love in **bridging design and engineering**. I focus on converting design syst
 ---
 
 ## 🏗️ Architecture I Love
-- **Monorepo**: Keeping things organized and efficient.  
-- **TDD (Test-Driven Development)**: Because quality matters.  
+- **Monorepo**: One repo to rule them all   
+- **TDD (Test-Driven Development)**: Test-first mindset = bug-free bliss 
 - **DDD (Domain-Driven Design)**: Building software that makes sense.  
 - **Microservices**: Scalable and modular by design.  
 - **CI/CD Pipelines**: Automating all the things!  
@@ -63,4 +63,6 @@ I’m always open to **collaborations**! Whether you need a **frontend expert** 
 Let’s create something amazing together! ✨
 
 -the end-
+
+— *Saja* 💫
 
