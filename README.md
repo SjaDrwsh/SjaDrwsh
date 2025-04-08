@@ -47,7 +47,6 @@ Here’s the stack I wield with intention and a little bit of frontend flair:
 - 🟣 **Semantic UI** – sleek and speedy setup    
 - 💅 **Styled-Components** – CSS-in-JS magic  
 - 🧵 **Emotion** – performant and expressive styling  
-- 📚 **Storybook** – for building and documenting UI in isolation  
 - 🎯 **Design Tokens** & **Responsive Systems**
 
 ### 📦 State Management
