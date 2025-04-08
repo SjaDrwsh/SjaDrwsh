@@ -41,11 +41,10 @@ Here’s the stack I wield with intention and a little bit of frontend flair:
 - 🧩 **HTML5**, 🎨 **CSS3**, 💅 **SASS/LESS**
 
 ### 🧱 UI Libraries & Styling
-- 💅 **Styled-Components**  
+- 💅 **Styled-Components** – CSS-in-JS magic  
 - 📚 **Storybook** – for beautiful, isolated components  
 - 🎨 **MUI** – clean, accessible, and robust  
 - 🟣 **Semantic UI** – sleek and speedy setup    
-- 💅 **Styled-Components** – CSS-in-JS magic  
 - 🧵 **Emotion** – performant and expressive styling  
 - 🎯 **Design Tokens** & **Responsive Systems**
 
